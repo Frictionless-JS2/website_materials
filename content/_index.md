@@ -2,7 +2,7 @@
 
 - New community of practice for people in Tucson working with code and building software
 - Fall 2022: **meet Wednesdays 2-6 PM at [CATalyst Data Studio](https://libguides.library.arizona.edu/catalyst-data), UA Main Library ([map](https://www.openstreetmap.org/?mlat=32.23103&mlon=-110.94897#map=19/32.23103/-110.94897))**
-- Bring your computer, your projects, your ideas
+- Bring your computer, your projects, and your ideas
 
 Code Commons provides a physical space for community and collaboration. Join us to share experience, learn, mentor, discover opportunities, and work on your programming projects in the presence of others doing the same.
 
@@ -36,12 +36,14 @@ Code Commons might grow into a more permanent space where people can gather on a
 
 ## How is Code Commons different from other local groups?
 
+Code Commons is not a maker space per se, but [it is hosted at one](https://libguides.library.arizona.edu/catalyst), and you could say Code Commons is the software-oriented aspect of a maker space.
+
 [Research Bazaar](https://researchbazaar.arizona.edu) is focused on data science. Some people who work with code are data scientists, but many others are not. In the future, Code Commons seeks to establish an every-day space, which ResBaz does not offer.
 
 [Data & Viz Drop-in](https://libcal.library.arizona.edu/event/9325842) is a weekly event for helping with data science projects. Code Commons is broader than data science, will become more frequent, and is focused more on building community than helping visitors.
 
 [Tucson Python Meetup](https://www.meetup.com/Tucson-Python-Meetup) offers approximately monthly events for people working with the Python programming language. Code Commons is a more frequent and less-structured gathering. We 
-do write Python, but aren't particularly focused on it.
+do write Python but we aren't limited to it.
 
 [Tucson Functional Programmers](https://www.meetup.com/Tucson-Functional-Programmers) offers approximately monthly events for people working with [functional](https://en.wikipedia.org/wiki/Functional_programming) programming techniques and languages. Code Commons is more frequent, and we love functional code but are not limited to it.
 
