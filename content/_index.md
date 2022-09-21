@@ -47,8 +47,8 @@ do write Python but we aren't limited to it.
 
 [Tucson Functional Programmers](https://www.meetup.com/Tucson-Functional-Programmers) offers approximately monthly events for people working with [functional](https://en.wikipedia.org/wiki/Functional_programming) programming techniques and languages. Code Commons is more frequent, and we love functional code but are not limited to it.
 
-Finally, Code Commons is not a hackathon. Hackathons tend to be intensive one-time events with a goal of building a new project to the prototype stage, while Code Commons is more about the everyday practice.
+Finally, Code Commons is not a hackathon. Hackathons tend to be intensive one-time events with a goal of launching a new project quickly, while Code Commons is more about the everyday practice.
 
 ## Who is behind Code Commons?
 
-Right now, Code Commons is organized by Chris Martin. Chris works remotely for Indiana University on [Jetstream2](https://jetstream-cloud.org) and [Exosphere](https://gitlab.com/exosphere/exosphere). Chris is building Code Commons with guidance from local colleagues and friends including Devin Bayly, David LeBauer, Jen Nichols, Jeff Oliver, Julian Pistorius, and Mariah Wall.
+Right now, Code Commons is organized by Chris Martin. I work remotely for Indiana University on [Jetstream2](https://jetstream-cloud.org) and [Exosphere](https://gitlab.com/exosphere/exosphere), but I live in Tucson. I'm building Code Commons with guidance from local colleagues and friends including Devin Bayly, David LeBauer, Jen Nichols, Jeff Oliver, Julian Pistorius, and Mariah Wall. You can email me, chris at c-mart dot in.
