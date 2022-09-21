@@ -1,0 +1,17 @@
+{{ define "main" }}
+
+<div id="home-jumbotron" class="jumbotron text-center">
+</div>
+
+{{ .Content }}
+
+<h2>News</h2>
+{{- range ( where site.RegularPages "Section" "news" | first 3 ) }}
+<p>
+    <a class="font-125" href="{{ .RelPermalink }}">{{ .Title }}</a>
+    {{ partial "date.html" . }}
+</p>
+{{ end }}
+
+
+{{ end }}
