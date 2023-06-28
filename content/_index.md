@@ -56,4 +56,4 @@ Right now, Code Commons is organized by:
 - Chris Martin, email chris at c-mart dot in
 - Devin Bayly, email baylyd at arizona dot edu
 
-We're building Code Commons with guidance from local colleagues and friends including Devin Bayly, David LeBauer, Jen Nichols, Jeff Oliver, Julian Pistorius, and Mariah Wall. You can email me, chris at c-mart dot in.
+We're building Code Commons with guidance from local colleagues and friends including David LeBauer, Jen Nichols, Jeff Oliver, Julian Pistorius, and Mariah Wall. You can email me, chris at c-mart dot in.
