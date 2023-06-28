@@ -1,8 +1,8 @@
 ![Code Commons logo](img/logo.png)
 
 - New community of practice for people in Tucson working with code and building software
-- Winter 2023: **meet Wednesdays 2-6 PM at [CATalyst Data Studio](https://libguides.library.arizona.edu/catalyst-data), UA Main Library ([map](https://www.openstreetmap.org/?mlat=32.23103&mlon=-110.94897#map=19/32.23103/-110.94897))**
 - Bring your computer, your projects, and your ideas
+- Summer 2023: **on summer break, no scheduled events at this time**. May resume around the week of August 21.
 
 Code Commons provides a physical space for community and collaboration. Join us to share experience, learn, mentor, discover opportunities, and work on your programming projects in the presence of others doing the same.
 
