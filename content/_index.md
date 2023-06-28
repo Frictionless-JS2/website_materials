@@ -51,4 +51,9 @@ Finally, Code Commons is not a hackathon. Hackathons tend to be intensive one-ti
 
 ## Who is behind Code Commons?
 
-Right now, Code Commons is organized by Chris Martin. I work remotely for Indiana University on [Jetstream2](https://jetstream-cloud.org) and [Exosphere](https://gitlab.com/exosphere/exosphere), but I live in Tucson. I'm building Code Commons with guidance from local colleagues and friends including Devin Bayly, David LeBauer, Jen Nichols, Jeff Oliver, Julian Pistorius, and Mariah Wall. You can email me, chris at c-mart dot in.
+Right now, Code Commons is organized by:
+
+- Chris Martin, email chris at c-mart dot in
+- Devin Bayly, email baylyd at arizona dot edu
+
+We're building Code Commons with guidance from local colleagues and friends including Devin Bayly, David LeBauer, Jen Nichols, Jeff Oliver, Julian Pistorius, and Mariah Wall. You can email me, chris at c-mart dot in.
