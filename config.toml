@@ -14,9 +14,9 @@ pre = "home"
 url = "/"
 weight = 1
 [[menu.main]]
-name = "News"
+name = "About"
 pre = "edit"
-url = "/news/"
+url = "/about/"
 weight = 2
 
 [params]
