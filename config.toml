@@ -1,6 +1,7 @@
 baseURL = 'https://codecommons.net'
 languageCode = 'en-us'
 title = "Code Commons"
+videoembed= "<iframe width="560" height="315" src="https://www.youtube.com/embed/sCNlt5nvSI8?si=cPzaCyr_NmWRAl1x&amp;clip=UgkxUU4dMYoLd4lC2llDuJANLX9TMCoYKTBo&amp;clipt=EAAYmHU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>"
 
 [permalinks]
 blog = "/:filename/"

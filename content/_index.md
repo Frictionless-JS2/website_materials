@@ -28,4 +28,4 @@ Here we hope to possibly embed the form for creating an account to keep people f
 Here's the place where Julian's google form will be embedded which kicks off the creation of user accounts within our Jetstream2 allocation
 
 ## Video showing sign on via exosphere
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sCNlt5nvSI8?si=cPzaCyr_NmWRAl1x&amp;clip=UgkxUU4dMYoLd4lC2llDuJANLX9TMCoYKTBo&amp;clipt=EAAYmHU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+{{ .Site.videoembed | safeHTML }}
