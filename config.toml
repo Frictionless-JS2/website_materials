@@ -1,0 +1,26 @@
+baseURL = 'https://codecommons.net'
+languageCode = 'en-us'
+title = "Code Commons"
+
+[permalinks]
+blog = "/:filename/"
+
+# See https://feathericons.com/
+# The value of pre is the icon name
+[menu]
+[[menu.main]]
+name = "Home"
+pre = "home"
+url = "/"
+weight = 1
+[[menu.main]]
+name = "News"
+pre = "edit"
+url = "/news/"
+weight = 2
+
+[params]
+dateFormat = "Jan 2, 2006"
+
+[taxonomies]
+tag = "tags"
